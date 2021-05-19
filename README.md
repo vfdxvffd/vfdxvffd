@@ -30,13 +30,3 @@ Here are some ideas to get you started:
 | :---------------: | :----------------------------------------------------------: |
 | **vfd-cloud云盘** |       [**vfd-cloud体验地址**](http://vfdxvffd.cn:8080)       |
 |    **博客园**     | [**https://www.cnblogs.com/vfdxvffd**](https://www.cnblogs.com/vfdxvffd) |
-
-<--
-
-## Featured Repositories:label:
-
-------
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vfdxvffd&repo=Summer)](https://github.com/vfdxvffd/Summer)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vfdxvffd&repo=vfd-cloud)](https://github.com/vfdxvffd/vfd-cloud)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vfdxvffd&repo=summer-vrpc)](https://github.com/vfdxvffd/summer-vrpc)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vfdxvffd&repo=vrpc)](https://github.com/vfdxvffd/vrpc)
-
--->
