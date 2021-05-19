@@ -18,26 +18,20 @@ Here are some ideas to get you started:
 
 ## Github Stats:label:
 
-------
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vfdxvffd&show_icons=true&theme=buefy&count_private=true&repo=github-readme-stats)](https://github.com/vfdxvffd)
 
 ## Most Used Languages:label:
 
-------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vfdxvffd)](https://github.com/vfdxvffd )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vfdxvffd&layout=compact)](https://github.com/vfdxvffd)
 
 ## Link:label:
 
-------
-
-
-
 |     个人主页      |            [vfdxvffd.cn](http://www.vfdxvffd.cn)             |
 | :---------------: | :----------------------------------------------------------: |
-| **vfd-cloud云盘** |         [vfd-cloud体验地址](http://vfdxvffd.cn:8080)         |
-|    **博客园**     | [https://www.cnblogs.com/vfdxvffd](https://www.cnblogs.com/vfdxvffd) |
+| **vfd-cloud云盘** |       [**vfd-cloud体验地址**](http://vfdxvffd.cn:8080)       |
+|    **博客园**     | [**https://www.cnblogs.com/vfdxvffd**](https://www.cnblogs.com/vfdxvffd) |
+
+<--
 
 ## Featured Repositories:label:
 
@@ -45,3 +39,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vfdxvffd&repo=Summer)](https://github.com/vfdxvffd/Summer)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vfdxvffd&repo=vfd-cloud)](https://github.com/vfdxvffd/vfd-cloud)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vfdxvffd&repo=summer-vrpc)](https://github.com/vfdxvffd/summer-vrpc)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vfdxvffd&repo=vrpc)](https://github.com/vfdxvffd/vrpc)
 
+-->
