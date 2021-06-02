@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Github Stats:label:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vfdxvffd&show_icons=true&theme=buefy&count_private=true&repo=github-readme-stats)](https://github.com/vfdxvffd)
+[![vfdxvffd's github stats](https://github-readme-stats.vercel.app/api?username=vfdxvffd&show_icons=true&theme=buefy&count_private=true&repo=github-readme-stats)](https://github.com/vfdxvffd)
 
 ## Most Used Languages:label:
 
